@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "experiment_id": "NPS-000",
+  "reference_file": "INPUT.txt",
+  "reference_sha256": "132234a5603b99813b48cd648404921fb686ad006ee26e25563f648a990c633a",
+  "reference_bytes": 8428,
+  "provenance": "Plain-text reference reconstructed from the supplied conversation; Markdown presentation removed. Not fetched from the service or verified against submitted input bytes.",
+  "reference_prepared_local_date": "2026-10-08",
+  "timezone": "Australia/Adelaide",
+  "comparison_to_actual_submission": "pending",
+  "sections": {
+    "source_paper": {
+      "sha256_utf8_text_without_terminal_newline": "fbfb8bd34899a4e11db64df0652ff24a43b4b7c5d3e4b2950523787489b7d17a",
+      "utf8_bytes_without_terminal_newline": 7203
+    },
+    "host_prompt": {
+      "sha256_utf8_text_without_terminal_newline": "511cad44a6e1e935da4aed2de2cd94aaa1a7112ed6d591ab03ab3ea0bc351311",
+      "utf8_bytes_without_terminal_newline": 590
+    }
+  }
+}
