@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "experiment_id": "NPS-000",
+  "run_id": "run-001",
+  "status": "baseline_retained_pending_evidence",
+  "protocol": {
+    "path": "experiments/NPS-000/PROTOCOL.md",
+    "version": "1.0.0",
+    "prepared_local_date": "2026-10-08",
+    "timezone": "Australia/Adelaide",
+    "baseline_commit_sha": "a055ad9319dcc44a0fc5efd209e1a01b06e5e3b6",
+    "baseline_commit_url": "https://github.com/QSOLKCB/NOTEBOOK/commit/a055ad9319dcc44a0fc5efd209e1a01b06e5e3b6",
+    "baseline_recorded_at": "2026-10-07T19:52:14Z",
+    "generation_relation": "generation_already_started_as_reported",
+    "timing_classification": "retained_before_assistant_analysis_investigator_exposure_unknown"
+  },
+  "exposure": {
+    "assistant": {
+      "declaration": "No recording or transcript has been supplied during protocol preparation.",
+      "declaration_local_date": "2026-10-08",
+      "first_output_access_at": null
+    },
+    "investigator": {
+      "declaration": null,
+      "declared_at": null,
+      "first_output_access_at": null,
+      "extent_before_baseline": null
+    },
+    "additional_evaluators": []
+  },
+  "generation": {
+    "started_at": null,
+    "completed_at": null,
+    "product_name_as_displayed": null,
+    "visible_model_version": null,
+    "language": null,
+    "overview_format": null,
+    "duration_setting": null,
+    "custom_instructions_as_submitted": null,
+    "actual_source_count": null,
+    "actual_sources": [],
+    "input_comparison_status": "pending_actual_inputs",
+    "input_differences": null,
+    "notes": "Generation was reported as started in the supplied conversation. Exact timing, settings, inputs, completion, and investigator exposure are not yet documented."
+  },
+  "transcription": {
+    "tool": null,
+    "version": null,
+    "created_at": null,
+    "raw_artifact": null,
+    "corrected_artifact": null,
+    "correction_log_artifact": null,
+    "notes": null
+  },
+  "analysis": {
+    "started_at": null,
+    "completed_at": null,
+    "reviewers": [],
+    "full_output_available": null,
+    "full_output_coded": null,
+    "primary_outcome": null,
+    "deviations": [],
+    "notes": null
+  },
+  "archive": {
+    "version": null,
+    "doi": null,
+    "record_url": null,
+    "report_artifact": null
+  }
+}
