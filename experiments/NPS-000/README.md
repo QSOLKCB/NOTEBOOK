@@ -15,6 +15,6 @@ The source paper is deliberately constructed academic nonsense, not a scientific
 
 Prepared on 2026-10-08 in Australia/Adelaide from the supplied conversation. The investigator reported that audio generation had started before this protocol was prepared. The assistant has received neither audio nor transcript. The investigator's exposure is unknown and needs a declaration before claiming pre-analysis timing for their evaluation.
 
-Protocol version 1.0.0 is prepared for retention at a fixed Git commit. The run metadata must identify that commit before evaluation. Results are pending. There is no completed recording, transcript, analysis, PDF, or Zenodo deposit in this experiment directory.
+Protocol version 1.0.0 is retained at commit [`a055ad9319dcc44a0fc5efd209e1a01b06e5e3b6`](https://github.com/QSOLKCB/NOTEBOOK/commit/a055ad9319dcc44a0fc5efd209e1a01b06e5e3b6). The [run metadata](runs/run-001/metadata.json) records this baseline in a subsequent commit. Investigator exposure remains undeclared. Results are pending. There is no completed recording, transcript, analysis, PDF, or Zenodo deposit in this experiment directory.
 
 The planned first analysis covers the original reported run only. New generations are separate runs; controls and broader comparisons require another plan.
