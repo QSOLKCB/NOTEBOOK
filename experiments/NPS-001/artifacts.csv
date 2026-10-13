@@ -1,0 +1,4 @@
+evidence_id,filename,bytes,sha256,duration_seconds,codec,sample_rate_hz,channels,declared_role,repo_binary_committed,external_immutable_url,notes
+audio-001,How_Apollo_11_Data_Powers_Modern_Spacecraft.m4a,37638308,4cbf09f7c0d7a51efdaabd2da3967eac9e20ff0762e0d8628a108402ff680c36,1169.449796,aac,44100,2,unassigned,false,,Original user-provided attachment; checksum over bytes; no condition inferred from filename
+audio-002,NASA_Classified_the_Fourth_Astronaut_as_Equipment.m4a,42425541,7415f67dfbbbeae3ff6b1418114078d0a268df52283778b23ea0cc1e0b870b4d,1318.196825,aac,44100,2,unassigned,false,,Original user-provided attachment; checksum over bytes; no condition inferred from filename
+audio-003,The_Engineering_Reality_of_Apollo_11.m4a,40318116,ca656794387e7b39c56bc86478d66a8b672abbfde128b1901b7cbb9f51952cfc,1252.716553,aac,44100,2,unassigned,false,,Original user-provided attachment; checksum over bytes; no condition inferred from filename
