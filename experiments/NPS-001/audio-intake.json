@@ -1,0 +1,66 @@
+{
+  "schema": "qsol.nps.audio-intake.v1",
+  "experiment_id": "NPS-001",
+  "recorded_local_date": "2026-10-14",
+  "recorded_timezone": "Australia/Adelaide",
+  "nature": "retrospective_after_generation",
+  "analysis_status": "not_completed",
+  "operator_original_submission_settings": null,
+  "generation_timestamps": null,
+  "archival_location": null,
+  "actual_uploaded_sources": null,
+  "actual_custom_prompts": null,
+  "condition_mapping_confirmed": false,
+  "product_version_confirmed": false,
+  "media_probe": "ffprobe local original user-provided attachments; SHA-256 from local original file bytes",
+  "evidence": [
+    {
+      "id": "audio-001",
+      "filename": "How_Apollo_11_Data_Powers_Modern_Spacecraft.m4a",
+      "bytes": 37638308,
+      "sha256": "4cbf09f7c0d7a51efdaabd2da3967eac9e20ff0762e0d8628a108402ff680c36",
+      "duration_s": 1169.449796,
+      "codec": "aac",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "container_encoder_tag": "Google",
+      "suggested_condition": null,
+      "original_binary_in_git": false
+    },
+    {
+      "id": "audio-002",
+      "filename": "NASA_Classified_the_Fourth_Astronaut_as_Equipment.m4a",
+      "bytes": 42425541,
+      "sha256": "7415f67dfbbbeae3ff6b1418114078d0a268df52283778b23ea0cc1e0b870b4d",
+      "duration_s": 1318.196825,
+      "codec": "aac",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "container_encoder_tag": "Google",
+      "suggested_condition": null,
+      "original_binary_in_git": false
+    },
+    {
+      "id": "audio-003",
+      "filename": "The_Engineering_Reality_of_Apollo_11.m4a",
+      "bytes": 40318116,
+      "sha256": "ca656794387e7b39c56bc86478d66a8b672abbfde128b1901b7cbb9f51952cfc",
+      "duration_s": 1252.716553,
+      "codec": "aac",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "container_encoder_tag": "Google",
+      "suggested_condition": null,
+      "original_binary_in_git": false
+    }
+  ],
+  "evaluation_exposure": {
+    "investigator": "not declared",
+    "assistant": "filenames and technical metadata visible; sample playback attempted for audio-002; no completed whole-recording transcript or coding"
+  },
+  "notes": [
+    "Media encoder tag is container metadata and does not independently establish product identity.",
+    "Source and prompt references are conversation proposals, not authenticated generation inputs.",
+    "No recording was committed to repository; preserve originals separately and enter immutable external archive URLs after deposit."
+  ]
+}
